@@ -1,0 +1,149 @@
+🚀 Starting deployment and environment check...
+------------------------------------------------
+🔄 Connecting to 172.18.40.101...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.102...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.103...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.104...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.105...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.106...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.107...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.108...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.109...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.110...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.111...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.112...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.113...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.114...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.115...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.116...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.117...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.118...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.119...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.120...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.121...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.122...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.123...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.124...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.125...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.126...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.127...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.128...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.129...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.130...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.131...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.132...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.133...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.134...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.135...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.136...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.137...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.138...
+  ✅ Success: Folder copied.
+  ⚠️  Ollama Status: [ NOT INSTALLED ]
+------------------------------------------------
+🔄 Connecting to 172.18.40.139...
+  ❌ Failure: Could not connect with provided passwords.
+------------------------------------------------
+🔄 Connecting to 172.18.40.140...
+  ✅ Success: Folder copied.
+  🦙 Ollama Status: [ INSTALLED ]
+------------------------------------------------
